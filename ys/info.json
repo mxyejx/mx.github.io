@@ -1,0 +1,199 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://v.itxm.net/",
+            "path": "index.html",
+            "saved": true,
+            "size": 11230,
+            "children": [
+                {
+                    "url": "http://v.itxm.net/img/bj.jpg",
+                    "path": "img/bj.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.itxm.net/img/1.jpg",
+                    "path": "img/1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.itxm.net/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 95997,
+                    "children": []
+                },
+                {
+                    "url": "http://v.itxm.net/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 35951,
+                    "children": []
+                },
+                {
+                    "url": "http://sdk.51.la/js-sdk-pro.min.js",
+                    "path": "js/js-sdk-pro.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.itxm.net/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 122575,
+                    "children": [
+                        {
+                            "url": "http://v.itxm.net/fonts/glyphicons-halflings-regular.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://tv.tbyhj.top/fonts/glyphicons-halflings-regular.eot?#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://v.itxm.net/fonts/glyphicons-halflings-regular.woff2",
+                            "path": "fonts/glyphicons-halflings-regular.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.itxm.net/fonts/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.itxm.net/fonts/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://tv.tbyhj.top/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://v.itxm.net/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://jx.qmbo.cn/",
+                    "path": "index_1.html",
+                    "saved": true,
+                    "size": 1319,
+                    "children": [
+                        {
+                            "url": "http://jx.qmbo.cn/so.php",
+                            "path": "so.php.html",
+                            "saved": true,
+                            "size": 16579,
+                            "children": [
+                                {
+                                    "url": "http://jx.qmbo.cn/include/jquery.min.js",
+                                    "path": "js/jquery.min_1.js",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://jx.qmbo.cn/include/class.main.js",
+                                    "path": "js/class.main.js",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://js.fundebug.cn/fundebug.1.7.3.min.js",
+                                    "saved": false
+                                },
+                                {
+                                    "url": "http://jx.qmbo.cn/include/jquery.autocomplete.js?ver=1.2",
+                                    "path": "js/jquery.autocomplete.js",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://jx.qmbo.cn/include/jquery.autocomplete.css",
+                                    "path": "css/jquery.autocomplete.css",
+                                    "saved": true,
+                                    "size": 408,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "v-itxm-net-tlcd491",
+    "info": {
+        "remark": [],
+        "title": "全民解析-vip视频在线解析-全网视频解析",
+        "domain": "v.itxm.net",
+        "origin": "http://v.itxm.net",
+        "ip": "45.116.77.60",
+        "main": "index.html",
+        "url": "http://v.itxm.net/",
+        "totalSize": "284 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://v.itxm.net/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://v.itxm.net/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.15.1",
+                "date": "Sun, 27 Nov 2022 08:36:58 GMT",
+                "content-type": "text/html",
+                "content-length": "12104",
+                "last-modified": "Fri, 25 Nov 2022 14:53:12 GMT",
+                "connection": "close",
+                "etag": "\"6380d6d8-2f48\"",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-11-27T08:50:59.242Z",
+            "end": "2022-11-27T08:51:32.220Z"
+        }
+    },
+    "options": {
+        "url": "http://v.itxm.net/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
