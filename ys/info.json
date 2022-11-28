@@ -1,0 +1,298 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://vip.xxphp.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 8896,
+            "children": [
+                {
+                    "url": "http://vip.xxphp.cn/img/wx.jpg",
+                    "path": "img/wx.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/aqylogo.png",
+                    "path": "img/aqylogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/youkulogo.png",
+                    "path": "img/youkulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/letvlogo.png",
+                    "path": "img/letvlogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/qqlogo.png",
+                    "path": "img/qqlogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/tudoulogo.png",
+                    "path": "img/tudoulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/sohulogo.png",
+                    "path": "img/sohulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/56logo.png",
+                    "path": "img/56logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/ku6logo.png",
+                    "path": "img/ku6logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/wasulogo.png",
+                    "path": "img/wasulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/yinyuetailogo.png",
+                    "path": "img/yinyuetailogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/hunantvlogo.png",
+                    "path": "img/hunantvlogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/sinalogo.png",
+                    "path": "img/sinalogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/163logo.png",
+                    "path": "img/163logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/6logo.png",
+                    "path": "img/6logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/kugoulogo.png",
+                    "path": "img/kugoulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/baomihualogo.png",
+                    "path": "img/baomihualogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/ifenglogo.png",
+                    "path": "img/ifenglogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/kankannewslogo.png",
+                    "path": "img/kankannewslogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/mtimelogo.png",
+                    "path": "img/mtimelogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/kuwologo.png",
+                    "path": "img/kuwologo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/1905logo.png",
+                    "path": "img/1905logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/tangdoulogo.png",
+                    "path": "img/tangdoulogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/cntvlogo.png",
+                    "path": "img/cntvlogo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://cdn.bootcss.com/jquery/3.3.1/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://cdn.staticfile.org/amazeui/2.3.0/js/amazeui.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://js.users.51.la/20655331.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css",
+                    "saved": false
+                },
+                {
+                    "url": "http://cdn.staticfile.org/amazeui/2.3.0/css/amazeui.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "http://vip.xxphp.cn/video/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 2971,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/css/style.css",
+                    "path": "css/style_1.css",
+                    "saved": true,
+                    "size": 6242,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/img/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://vip.xxphp.cn/ks.html",
+                    "path": "ks.html",
+                    "saved": true,
+                    "size": 1922,
+                    "children": [
+                        {
+                            "url": "http://vip.xxphp.cn/qrcode.jpg",
+                            "path": "img/qrcode.jpeg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "vip-xxphp-cn-nhdexmof",
+    "info": {
+        "remark": [],
+        "title": "全民蓝光解析-智能视频解析-vip电影解析-全民解析vip视频解析网站",
+        "domain": "vip.xxphp.cn",
+        "origin": "http://vip.xxphp.cn",
+        "ip": "103.27.111.15",
+        "main": "index.html",
+        "url": "http://vip.xxphp.cn/",
+        "totalSize": "20 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://vip.xxphp.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://vip.xxphp.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html; charset=UTF-8",
+                "server": "Microsoft-IIS/8.5",
+                "x-powered-by": "PHP/7.3.6, ASP.NET",
+                "date": "Mon, 28 Nov 2022 03:38:19 GMT",
+                "connection": "close",
+                "content-length": "10022"
+            }
+        },
+        "time": {
+            "start": "2022-11-28T03:39:42.381Z",
+            "end": "2022-11-28T03:39:47.017Z"
+        }
+    },
+    "options": {
+        "url": "http://vip.xxphp.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
